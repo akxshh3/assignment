@@ -1,9 +1,0 @@
-<svg width="120" height="120" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-
-<!-- Cube Shape -->
-
-<polygon points="50,10 80,30 50,50 20,30" fill="#ff6a00"/>
-<polygon points="20,30 50,50 50,85 20,65" fill="#000"/>
-<polygon points="80,30 50,50 50,85 80,65" fill="#333"/>
-
-</svg>
